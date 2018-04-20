@@ -4,7 +4,7 @@ class ExchangeCoinexchange extends Exchange {
     constructor() {
         super();
 
-        this.title = 'Tradesatoshi'
+        this.title = 'CoinExchange'
     }
 
     async update() {
