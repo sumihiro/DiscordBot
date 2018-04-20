@@ -21,6 +21,8 @@
     "nock": "1.7.x",
     "node-wolfram": "0.0.1",
     "npm": "",
+    "numeral": "^2.0.6",
+    "promise-limit": "^2.6.0",
     "querystring": "0.2.x",
     "request": "^2.85.0",
     "request-promise": "^4.2.1",
